@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">Olá, eu sou o Danilo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
 
-<!--
-**danargolo/danargolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&&width=435&height=200&lines=Desenvolvedor+Front-End;Estudante+de+Back-End;Whovian" alt="Typing SVG" /></a>
+</p>
 
-Here are some ideas to get you started:
+<p >Recentemente, decidi abraçar minha paixão por tecnologia e dei início à minha jornada de estudos para formação em <strong>Desenvolvimento Full Stack</strong> na Trybe.</p>
+<p>Estudo no módulo de <strong>Back-End</strong>, no momento, e busco sempre aperfeiçoar as stacks adquiridas no <strong>Front-End</strong>. </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>Algumas curiosidades:</p>
+
+<ul>
+  <li>Interesse em aprender Golang e Plutus.</li>
+  <li>Sou colecionador de quadrinhos (não de lombadas).</li>
+</ul>
+
+**********
