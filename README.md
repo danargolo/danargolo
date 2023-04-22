@@ -18,7 +18,7 @@
   <a style="margin:2.5px" href="malito:dan.argolo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a style="margin:2.5px" href="https://www.linkedin.com/in/danargolo/" target="_blank">
+  <a style="margin:2.5px" href="https://www.linkedin.com/in/danargolo/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
   </a>
 </span>
