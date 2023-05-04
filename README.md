@@ -10,7 +10,7 @@
 
 <ul>
   <li>Interesse em aprender Golang e Plutus.</li>
-  <li>Sou colecionador de quadrinhos (não de lombadas).</li>
+  <li>Sou colecionador de quadrinhos.</li>
 </ul>
 
 <p>Contatos:&nbsp;<a href="mailto:dan.argolo@gmail.com">
