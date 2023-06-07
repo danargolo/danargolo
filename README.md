@@ -9,7 +9,7 @@
 <p>Algumas curiosidades:</p>
 
 <ul>
-  <li>Interesse em aprender Golang e Plutus.</li>
+  <li>Interesse em aprender Ruby e Plutus.</li>
   <li>Sou colecionador de quadrinhos.</li>
 </ul>
 
