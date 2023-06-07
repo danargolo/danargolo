@@ -52,7 +52,7 @@
 **********
 <span>
   <img src="https://github-readme-stats.vercel.app/api?username=danargolo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=171515&"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danargolo&card_width=250&theme=tokyonight&hide_border=true&bg_color=171515&"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danargolo&card_width=300&theme=tokyonight&hide_border=true&bg_color=171515&&layout=compact"/>
 </span>
 
 
